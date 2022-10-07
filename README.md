@@ -7,7 +7,7 @@
 *Através deste repositório JavaScripExercicios irei enviar alguns exercicios públicos de minha autoria . 
 
 
-"Lembre-se o seu futuro só depende de você."
+"Lembre-se o seu futuro só depende de você."; )
 
 ---
 
