@@ -3,7 +3,7 @@
 #Escrever E Achar  
 
 ## Cade meu Nome  
- Imagine uma caixa cheia de nome e desta caixa ja foi esvaziada aonde restou apenas 3 nomes .
+ Imagine uma caixa cheia de nome e desta caixa ja foi esvaziada quase toda aonde restou apenas 3 nomes .
   Faça um codigo que irar fornecer o seu nome e o indice que ele se encontra dentro da caixa . 
 
 ##### Entrada
