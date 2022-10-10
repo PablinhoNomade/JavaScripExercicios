@@ -3,11 +3,11 @@
 #Imitando
 
 ## Como Que Faz     
- Juninho muito apaixonado pelos animais resolveu adotar um cachorro , um gato , um galo e lobo .
+ Juninho muito apaixonado pelos animais resolveu adotar um cachorro , um gato , um galo e um lobo .
 
-E sempre que ele ele fala o tipo de animal o seu animal emite o som como se atende-se o seu chamado . 
+E sempre que ele fala o tipo de animal o seu animal emite o som como se atende-se o seu chamado . 
 
-Faça uma função que imprima de o seu chamado tipo string de acordo com o tipo de animal . 
+Faça uma função que imprima de o seu chamado tipo "string" de acordo com o tipo de animal . 
 
 ##### Entrada
 ```                
